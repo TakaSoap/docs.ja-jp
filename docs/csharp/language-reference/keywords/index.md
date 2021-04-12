@@ -63,7 +63,7 @@ ms.locfileid: "104881029"
 |[partial (メソッド)](partial-method.md)|[remove](remove.md)|[select](select-clause.md)|
 |[set](set.md)|[unmanaged (ジェネリック型制約)](../../programming-guide/generics/constraints-on-type-parameters.md#unmanaged-constraint)|[value](value.md)|
 |[var](var.md)|[when (フィルター条件)](when.md)|[where (ジェネリック型制約)](where-generic-type-constraint.md)|
-|[where (クエリ句)](where-clause.md)|[ある場合](../operators/with-expression.md)|[yield](yield.md)||
+|[where (クエリ句)](where-clause.md)|[with](../operators/with-expression.md)|[yield](yield.md)||
 
 ## <a name="see-also"></a>関連項目
 
